@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently working as Software Engineer @ Ivy Comptech
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me..
+- 📫 Say hi to me @..
 sivakrishna.eee59@gmail.com
 <!---
 sivakrishna-m/sivakrishna-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
